@@ -8,29 +8,19 @@ navbar_entries:
 project_entries:
   - title: Vulnerability
     url: overview-post
-    desc: Vulnerability analysis
+    desc: 
 
   - title: Exploit loopholes
     url: overview-post
-    desc: some tips
+    desc: 
 
   - title: Data security
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: 
 
-  - title: cloud security
+  - title: Cloud security
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: 
 
 old_project_entries:
   - title: Soopr
