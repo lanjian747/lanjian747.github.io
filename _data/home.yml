@@ -6,15 +6,15 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: loophole
+  - title: Vulnerability
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Vulnerability analysis
 
-  - title: dig a hole
+  - title: Exploit loopholes
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: some tips
 
-  - title: data security
+  - title: Data security
     url: overview-post
     desc: You can control visibility from _config.yml file
 
