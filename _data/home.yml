@@ -22,12 +22,6 @@ project_entries:
     url: overview-post
     desc: 
 
-  - title: Project 5
-    url: overview-post
-
-  - title: Project 6
-    url: overview-post
-
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
